@@ -6,6 +6,8 @@ public class Git3 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Git 3");
+		System.out.println("Git 4");
+		System.out.println("Git 5");
 
 	}
 
