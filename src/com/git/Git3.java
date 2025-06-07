@@ -1,0 +1,12 @@
+package com.git;
+
+public class Git3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Git 3");
+
+	}
+
+}
