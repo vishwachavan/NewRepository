@@ -12,6 +12,8 @@ public class Git3 {
 		System.out.println("Git 6");
 		System.out.println("Lead added the line");
 		
+		System.out.println("Lead added another line the line");
+		
 
 	}
 
