@@ -10,6 +10,8 @@ public class Git3 {
 		System.out.println("Git 5");
 		
 		System.out.println("Git 6");
+		
+		System.out.println("Teammember added the line in Git 3.java class");
 
 	}
 
