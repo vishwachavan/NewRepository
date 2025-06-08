@@ -14,6 +14,8 @@ public class Git3 {
 		System.out.println("Teammember added the line in Git 3.java class");
 		
 		System.out.println("Teammember added another the line in Git 3.java class");
+		
+		System.out.println("Teammember added another the line in Git 3.java class");
 
 	}
 
